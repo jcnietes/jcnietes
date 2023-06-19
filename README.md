@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **nietes.jonzeecarels@gmail.com**
 
+- 📄 Here is my temporary portfolio [https://jcnietes.github.io/](https://jcnietes.github.io/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jcnietes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcnietes" height="30" width="40" /></a>
