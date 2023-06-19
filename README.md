@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jcnietes&label=Profile%20views&color=0e75b6&style=flat" alt="jcnietes" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
+
 - 🌱 I’m currently learning **Frontend development**
 
 - 📫 How to reach me **nietes.jonzeecarels@gmail.com**
